@@ -17,6 +17,6 @@ function login() {
             alert("Login Successfully");
         } else {
             alert(res.message);
-        }
+        };
     })
 };
